@@ -6,5 +6,5 @@ Tower Defense in C++
 #### To Do:
 - arrange waves
 - correct bug on bullets life-cycle
-
-![Screenshot from 2021-03-09 14-54-30](https://user-images.githubusercontent.com/47982858/110489613-6b3ea380-80e7-11eb-87a3-49dfff8c485d.png)
+- 
+![Screenshot from 2021-03-09 14-55-33](https://user-images.githubusercontent.com/47982858/110489790-94f7ca80-80e7-11eb-99ad-28b1629ad495.png)
